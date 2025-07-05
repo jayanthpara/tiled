@@ -1,16 +1,24 @@
-# tiled
+# Tiled
 
-A new Flutter project.
+This is a **Flutter app** implementing a simple and engaging tile-based game.
+
+## Features
+
+- ✅ A basic login page
+- ✅ After login, a grid layout is shown
+- ✅ Each grid contains tiles that can be tapped
+- ✅ When a tile is touched, its color changes
+- ✅ Completing all tiles in a grid unlocks a new level or achievement
+- 🎮 This game is built entirely in Flutter, designed for casual play and timepass
+
+## Screenshots
+
+*(Add your screenshots here if available)*
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
